@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kindnemo
-- 👀 I’m interested in coding in general but I want to specialize in web development atm, I have plans for the future though ;)
+- 👀 I’m interested in coding in general but I want to specialize in web development atm
 - 🌱 I’m currently learning front end web dev
 - 💞️ I’m looking to collaborate on some projects
 <!---
