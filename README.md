@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning front end web dev
 - 💞️ I’m looking to collaborate on some projects
 
-(https://github-readme-stats.vercel.app/api?username=kindnemo&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Nemo's github stats](https://github-readme-stats.vercel.app/api?username=kindnemo&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kindnemo)](https://github.com/anuraghazra/github-readme-stats)
 
