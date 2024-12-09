@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kindnemo
+- 👋 Hi, I’m Namn Mishra @kindnemo
 - 👀 I’m interested in coding in general but I want to specialize in web development atm
 - 🌱 I’m currently learning front end web dev
 - 💞️ I’m looking to collaborate on some projects
