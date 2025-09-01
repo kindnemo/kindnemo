@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Naman Mishra @kindnemo
-- 👀 I’m interested in coding in general but I want to specialize in web development atm
-- 🌱 I’m currently learning front end web dev
+- 👀 I started out as a front-end web developer/designer but my interests have been branching out towards AI/ML engineering recetly
 - 💞️ I’m looking to collaborate on some projects
 
 [![Nemo's github stats](https://github-readme-stats.vercel.app/api?username=kindnemo&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
